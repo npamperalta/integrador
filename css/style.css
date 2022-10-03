@@ -1,0 +1,29 @@
+.navbar-link
+{
+    color: green; text-align: right;
+}
+.caroussel-item img{
+    filter:brightness(40%);
+}
+.link-success{
+    padding-top: 2px;
+}
+h6
+{
+    text-align: center; -ms-text-size-adjust: auto;
+}
+.card
+{
+    image-resolution: 8px;
+    margin-inline-start: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+
+}
+.col-md-6 {
+    color: white;
+}
+.card-mb-3 {
+    padding-right: 10px;
+}
+
